@@ -33,10 +33,10 @@ We provide several datasets including (downloading link code be found in my [Hom
   * CIFAR-100 \[[cifar100-train-part1.pkl, cifar100-train-part2.pkl, cifar100-test.pkl](http://www.lamda.nju.edu.cn/lixc/data/CIFAR100.zip)\]
 
 We provide several pretrained models including (downloading link code be found in my [Homepage](https://www.lamda.nju.edu.cn/lixc/)):
-  * \[[cifar100-ResNet14-E240.pth](http://www.lamda.nju.edu.cn/lixc/data/cifar100-ResNet14-E240.pth)\]
-  * \[[cifar100-ResNet110-E240.pth](http://www.lamda.nju.edu.cn/lixc/data/cifar100-ResNet110-E240.pth)\]
-  * \[[cifar100-WRN28-1-E240.pth](http://www.lamda.nju.edu.cn/lixc/data/cifar100-WRN28-1-E240.pth)\]
-  * \[[cifar100-WRN28-8-E240.pth](http://www.lamda.nju.edu.cn/lixc/data/cifar100-WRN28-8-E240.pth)\]
+  * \[[cifar100-ResNet14-E240.pth](http://www.lamda.nju.edu.cn/lixc/data/cifar100-ResNet14-E240.zip)\]
+  * \[[cifar100-ResNet110-E240.pth](http://www.lamda.nju.edu.cn/lixc/data/cifar100-ResNet110-E240.zip)\]
+  * \[[cifar100-WRN28-1-E240.pth](http://www.lamda.nju.edu.cn/lixc/data/cifar100-WRN28-1-E240.zip)\]
+  * \[[cifar100-WRN28-8-E240.pth](http://www.lamda.nju.edu.cn/lixc/data/cifar100-WRN28-8-E240.zip)\]
 
 If the data or models could not be downloaded, please copy the links and open them in a new browser window.
 
